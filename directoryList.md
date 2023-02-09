@@ -1,0 +1,38 @@
+|-- tmp
+    |-- GOL_Screencast.gif
+    |-- README
+    |-- README.gpg
+    |-- README.html
+    |-- README.md
+    |-- commit
+    |-- directoryList.md
+    |-- game-of-life
+    |-- game-of-life_darwin_amd64
+    |-- game-of-life_freebsd_386
+    |-- game-of-life_freebsd_amd64
+    |-- game-of-life_freebsd_arm
+    |-- game-of-life_linux_386
+    |-- game-of-life_linux_amd64
+    |-- game-of-life_linux_arm
+    |-- game-of-life_netbsd_386
+    |-- game-of-life_netbsd_amd64
+    |-- game-of-life_netbsd_arm
+    |-- game-of-life_openbsd_386
+    |-- game-of-life_openbsd_amd64
+    |-- game-of-life_plan9_386
+    |-- game-of-life_windows_386.exe
+    |-- game-of-life_windows_amd64.exe
+    |-- game_of_life_logo
+    |-- game_of_life_logo-ascii-art.png
+    |-- go.mod
+    |-- gol.sh
+    |-- gpg.README
+    |-- life
+    |-- life.go
+    |-- screenshot
+    |-- test
+    |-- .github
+    |   |-- workflows
+    |       |-- jekyll-gh-pages.yml
+    |-- bin
+        |-- main.go
