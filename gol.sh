@@ -1,3 +1,3 @@
 timg *logo
 sleep 1
-go build -o life
+go build -o life && ./life 
